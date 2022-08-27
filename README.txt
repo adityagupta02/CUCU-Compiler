@@ -1,5 +1,4 @@
 Author: Aditya Bal Gupta
-Entry Number: 2020CSb1067
 
 Use the commands to compile the compiler : 
 				step 1 : bison -d cucu.y
